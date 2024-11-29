@@ -15,6 +15,11 @@ public class Main {
      * @param args arguments de la linia de comandaments
      */
     public static void main(String[] args) {
+        
+        System.out.println("Marlene Cela Tolosana");
+        System.out.println("He aprés molt fent el mòdul 8 de DAW encara que hagi estat dur!!!");
+        System.out.println(" ");
+
         Scanner scanner = new Scanner(System.in); // Inicialitza un escaner per a l'entrada de dades
 
         // Sol·licita la mida de l'array
